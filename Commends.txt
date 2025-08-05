@@ -1,0 +1,5 @@
+cd backend
+npm install dotenv mongoose express cors socket.io jsonwebtoken
+
+cd frontend
+npm install
