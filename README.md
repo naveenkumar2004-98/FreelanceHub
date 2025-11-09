@@ -58,7 +58,6 @@ We welcome contributions! Please:
 3. Make your changes 🛠️
 4. Open a Pull Request ✅
 
-Read our [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
 
 ---
 
